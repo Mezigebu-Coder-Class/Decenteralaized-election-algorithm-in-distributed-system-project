@@ -1,0 +1,10 @@
+# Number of nodes in the system
+2
+
+# Node#    Hostname    Port#
+   1     localhost      1234
+   2     localhost      1235
+
+# Node#   Neighbors
+   1      2
+   2      1    
